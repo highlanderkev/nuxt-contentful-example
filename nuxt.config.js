@@ -29,7 +29,9 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Nuxt.js project' }
+      { hid: 'description', name: 'description', content: 'Nuxt.js project' },
+      { name: 'contentful_space', content: config.CTF_SPACE_ID },
+      { name: 'contentful_environment', content: config.CTF_ENVIRONMENT }
     ],
     link: [
       { rel: 'canonical', href: '/' },

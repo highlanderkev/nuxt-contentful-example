@@ -1,6 +1,6 @@
 <template>
   <section class="container">
-    <div class="jumbotron header author">
+    <div class="jumbotron header author" :data-csk-entry-id="person.sys.id">
       <h1>{{person.fields.name}}</h1>
       <a class="primary" href="#">Contact</a>
     </div>

@@ -1,5 +1,5 @@
 <template>
-  <div class="card no-body mb-1">
+  <div class="card no-body mb-1" :data-csk-entry-id="post.sys.id">
     <div class="card-header p-1" role="tab">
       <h3 class="button btn block info" :data-toggle="`accordion-${index}`">{{post.fields.title}}</h3>
     </div>
