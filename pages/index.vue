@@ -26,6 +26,9 @@
 <script>
 import AppLogo from '~/components/AppLogo.vue'
 
+console.log("this is bad")
+throw new Error("Error");
+
 export default {
   components: {
     AppLogo
