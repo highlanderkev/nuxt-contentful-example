@@ -2,7 +2,7 @@ repo_name: highlanderkev/nuxt-contentful-example
 report_id: 2f6d3a9eab61a26e788cd64a9d883bc0
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T17:15:02+00:00'
+timestamp: '2024-02-29T19:47:33+00:00'
 requested_by: highlanderkev
 provider: github
 branch: master
@@ -132,7 +132,7 @@ tools:
   last_updated_by: Kevin.Westropp
   last_updated_on: 2018-12-10 21:31:40.000000000 Z
 - name: Contentful
-  description: 'Contentful is a cloud-based API-first content platform '
+  description: Contentful is a cloud-based API-first content platform
   website_url: https://www.contentful.com/
   open_source: false
   hosted_saas: true
