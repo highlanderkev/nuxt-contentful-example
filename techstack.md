@@ -3,14 +3,14 @@
 ## Tech Stack
 highlanderkev/nuxt-contentful-example is built on the following main stack:
 
-- [Contentful](https://www.contentful.com/) – Cloud Content Management System
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Nuxt.js](https://nuxtjs.org) – Front-End Frameworks
+- [Vue.js](http://vuejs.org/) – Javascript UI Libraries
 - [Babel](http://babeljs.io/) – JavaScript Compilers
 - [ESLint](http://eslint.org/) – Code Review
-- [Vue.js](http://vuejs.org/) – Javascript UI Libraries
-- [Nuxt.js](https://nuxtjs.org) – Front-End Frameworks
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Contentful](https://www.contentful.com/) – Cloud Content Management System
 
 Full tech stack [here](/techstack.md)
 
@@ -20,14 +20,14 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 highlanderkev/nuxt-contentful-example is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/672/default_622e25ec0417ac85db5b66ca399528b101ba284f.png' alt='Contentful'/> [Contentful](https://www.contentful.com/) – Cloud Content Management System
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/7304/23360933.png' alt='Nuxt.js'/> [Nuxt.js](https://nuxtjs.org) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/7304/23360933.png' alt='Nuxt.js'/> [Nuxt.js](https://nuxtjs.org) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/672/default_622e25ec0417ac85db5b66ca399528b101ba284f.png' alt='Contentful'/> [Contentful](https://www.contentful.com/) – Cloud Content Management System
 
 Full tech stack [here](/techstack.md)
 
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [highlanderkev/nuxt-contentful-example](https://github.com/highlanderkev/nuxt-contentful-example)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|16<br/>Tools used|01/31/24 <br/>Report generated|
+|16<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
